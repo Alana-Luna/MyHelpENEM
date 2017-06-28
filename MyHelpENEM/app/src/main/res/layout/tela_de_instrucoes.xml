@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bem vindo(a) ao HelpENEM! É novo por aqui? Não tem problema, vamos explicar como tudo funciona. No HelpENEM você poderá responder perguntas de múltipla escolha de acordo com a categoria da disciplina: história, geografia, português, matemática, física, química, biologia, inglês e espanhol. As perguntas e suas respectivas respostas são cadastradas pelos próprios usuários e você também pode cadastrar suas próprias perguntas para que outros usuários possam ter acesso."
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textStyle="bold" />
+
+</LinearLayout>

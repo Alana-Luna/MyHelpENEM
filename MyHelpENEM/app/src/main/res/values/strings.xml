@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyHelpENEM</string>
+    <string-array name="disciplinas">
+        <item>História</item>
+        <item>Geografia</item>
+        <item>Filosofia</item>
+        <item>Biologia</item>
+        <item>Física</item>
+        <item>Matemática</item>
+        <item>Química</item>
+        <item>Português</item>
+        <item>Inglês</item>
+        <item>Espanhol</item>
+    </string-array>
+    <string name="title_activity_responder_questoes">ResponderQuestoes</string>
+</resources>
+
